@@ -1,13 +1,17 @@
-<h1 align="center">Hi 👋, I'm Sakshi Singh</h1>
-<h3 align="center">Aspiring Web Developer | Building Responsive & User-Friendly Websites</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sakshi%20Singh&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Building%20the%20web,%20one%20line%20at%20a%20time&descAlignY=55&descSize=18" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Aspiring+Web+Developer;Building+Clean+%26+Responsive+UI;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=%3E+Aspiring+Web+Developer;%3E+Turning+Ideas+Into+Interfaces;%3E+Always+Debugging%2C+Always+Learning;%3E+Currently.exploring(new+tech)" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/status-online-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white" />
+  <img src="https://img.shields.io/badge/coffee-required-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Find Me Around the Web
 
 <p align="center">
   <a href="mailto:singhsakshi8322@gmail.com">
@@ -17,7 +21,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+### ⚡ Tech Arsenal
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -34,37 +38,47 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 The Numbers
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=singhsakshi8322-gif&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhsakshi8322-gif&layout=compact&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=singhsakshi8322-gif&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhsakshi8322-gif&layout=compact&theme=dracula&border_radius=10" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhsakshi8322-gif&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=singhsakshi8322-gif&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhsakshi8322-gif&theme=dracula&border_radius=10" />
 </p>
 
 ---
 
-### 💬 Random Dev Quote
+### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/singhsakshi8322-gif/singhsakshi8322-gif/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+> ⚙️ To activate this: create a repo named exactly `singhsakshi8322-gif` (matches your username), then add a GitHub Action that generates the snake — say the word and I'll write that workflow file for you.
+
+---
+
+### 🏆 Trophy Cabinet
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=singhsakshi8322-gif&theme=dracula&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
+### 💭 Quote of the Moment
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=singhsakshi8322-gif&color=blueviolet&style=flat-square" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
 </p>
 
-<p align="center"><i>⭐️ Thanks for visiting my profile!</i></p>
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=singhsakshi8322-gif&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>

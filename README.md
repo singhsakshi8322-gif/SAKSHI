@@ -1,14 +1,17 @@
+<h1 align="center">Hey👋</h1>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/singhsakshi8322-gif/SAKSHI/main/assets/terminal-banner.svg" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Aspiring+Web+Developer;Building+Responsive+%26+User-Friendly+Sites;Always+Learning%2C+Always+Building" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=600&lines=%3E+Turning+ideas+into+interfaces;%3E+Always+debugging%2C+always+learning;%3E+Currently.exploring(new_tech)" />
+  <img src="https://img.shields.io/badge/status-actively--coding-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white" />
+  <img src="https://img.shields.io/badge/open%20to-collab-blueviolet?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
-### 🌐 Reach Me
+### 🌐 Connect
 
 <p align="center">
   <a href="mailto:singhsakshi8322@gmail.com">
@@ -18,7 +21,7 @@
 
 ---
 
-### ⚡ Tech Arsenal
+### ⚡ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
@@ -35,10 +38,14 @@
 
 ---
 
-### 📊 The Numbers
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=singhsakshi8322-gif&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=12" />
+</p>
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhsakshi8322-gif&layout=compact&theme=radical&border_radius=12" />
 </p>
 
 <p align="center">
@@ -48,9 +55,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/singhsakshi8322-gif/SAKSHI/main/assets/terminal-banner.svg" width="100%" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=singhsakshi8322-gif&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
+
+<p align="center"><i>⭐ Thanks for stopping by — always building, always shipping.</i></p>

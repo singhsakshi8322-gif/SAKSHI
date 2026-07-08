@@ -1,48 +1,57 @@
-#repo n1 :
-# Yo, I’m Sakshi 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=sakshi&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=40" />
 
-Just another coder trying to do cool stuff.  
-Here’s a bit about me—nothing fancy, just some skills and projects.
-
----
-
-## Skills & Tech
-- HTML5 (because why not)
-- Python (Pandas, NumPy — you get the idea)
-- Java (kinda new)
-- C++ (still figuring it out)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=89DCEB&center=true&vCenter=true&width=550&lines=writing+code%2C+breaking+things%2C+fixing+them;figuring+it+out+as+I+go;not+in+a+rush" />
+</p>
 
 ---
 
-## GitHub Stats
-![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=singhsakshi8322-gif&show_icons=true&theme=gruvbox)
-
----
-## My Vibe Contributions
-
-![My Custom Activity Graph](https://activity-graph.herokuapp.com/graph?username=singhsakshi8322-gif&theme=dark&hide_border=true&area=true&radius=8&custom_title=Vibing%20with%20Code)
+### about
+just a first-year CS student building things on the side. python, a bit of JS, learning as I go. not chasing perfection, just consistency.
 
 ---
 
-## 🌟 Chill Quote of the Day
-> "Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson
-
-*(Just a little something to keep in mind. Change it when I feel like it.)*
-
----
-
-## Connect if you want
- [Email](mailto:singhsakshi8322@egmail.com)
+### stack
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
 ---
 
-## Future plans?
-- Keep messing around with code
-- Contribute here and there
-- Learn Java and C++ more
-- Make some cool projects (or not, no pressure)
+### stats
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=singhsakshi8322-gif&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhsakshi8322-gif&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhsakshi8322-gif&theme=tokyonight&hide_border=true" />
+</p>
+
+### activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhsakshi8322-gif&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+### trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=singhsakshi8322-gif&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 ---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=singhsakshi8322-gif&color=1a1b27&style=flat-square&label=views" />
+</p>
 
 **Just out here vibing with code. Hit me up if you wanna chat.**  
 Peace.

@@ -13,7 +13,6 @@
 ---
 
 ### 🌐 Connect With Me
-
 <p align="center">
   <a href="mailto:singhsakshi8322@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -23,7 +22,6 @@
 ---
 
 ### ⚡ Tech Arsenal
-
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -40,7 +38,6 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=singhsakshi8322-gif&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=12" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhsakshi8322-gif&layout=compact&theme=radical&border_radius=12" />
@@ -53,7 +50,6 @@
 ---
 
 ### 🏆 GitHub Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=singhsakshi8322-gif&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
 </p>
@@ -61,7 +57,6 @@
 ---
 
 ### 📈 Contribution Activity Graph
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhsakshi8322-gif&theme=react-dark&hide_border=true&area=true" />
 </p>
@@ -69,7 +64,6 @@
 ---
 
 ### 💭 Quote of the Moment
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
@@ -81,5 +75,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=singhsakshi8322-gif&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
-
-<p align="center"><i>⭐ Thanks for stopping by — always building, always shipping.</i></p>

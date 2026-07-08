@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=sakshi&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=40" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=S&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=40" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=89DCEB&center=true&vCenter=true&width=550&lines=writing+code%2C+breaking+things%2C+fixing+them;figuring+it+out+as+I+go;not+in+a+rush" />
